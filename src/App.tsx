@@ -19,7 +19,7 @@ function App() {
   })
 
   // Token de acesso do Mercado Pago (em produção, isso deve estar no backend)
-  const ACCESS_TOKEN = 'APP_USR-7033358834430014-122219-ffbed878f808ea3d36b3b22107dca7ff-3087494349'
+  const ACCESS_TOKEN = 'APP_USR-113953143621597-122219-628184e968dafa510971141d03ad73f1-1667777788'
 
   // Verifica os parâmetros de retorno do Mercado Pago quando a página carrega
   useEffect(() => {
